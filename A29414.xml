@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of the state of the differences now depending and agitated about justification, and some other points of religion declaring plainly wherein both sides agree and wherein they differ.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29414</idno>
+            <idno type="STC">Wing B4521</idno>
+            <idno type="STC">ESTC R31279</idno>
+            <idno type="EEBO-CITATION">11872623</idno>
+            <idno type="OCLC">ocm 11872623</idno>
+            <idno type="VID">50154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50154)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 997:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of the state of the differences now depending and agitated about justification, and some other points of religion declaring plainly wherein both sides agree and wherein they differ.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cockerill ...,</publisher>
+                  <pubPlace>Oondon [sic] :</pubPlace>
+                  <date>MDCXCII [1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justification.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50154:1" rendition="simple:additions"/>
+            <pb facs="tcp:50154:1" rendition="simple:additions"/>
+            <p>A BRIEF ACCOUNT OF THE STATE of the DIFFERENCES Now Depending and Agitated about Juſtification, And ſome other POINTS of RELIGION: Declaring plainly Wherein both Sides AGREE, and wherein they DIFFER.</p>
+            <p>
+               <hi>OONDON,</hi> Printed for <hi>Thomas Cockerill,</hi> at the <hi>Three Legs,</hi> over-againſt <hi>Stocks-Market.</hi> MDCXCII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:50154:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:50154:2" rendition="simple:additions"/>
+            <head>A Brief Account of the State of the Dif<g ref="char:EOLhyphen"/>ferences now depending and agitated about JUSTIFICATION, <hi>&amp;c.</hi>
+            </head>
+            <p>I Thought it might much conduce to the ſervice of Truth and Peace, to State plainly the Points that are in preſent Diſpute among us. For I find many are led to one ſide and another, and yet underſtand not aright the Grounds of what they do; but are led by their Affections, animated with Paſſions, and the reſpect they bear unto mens Perſons. And in many things I obſerve the Diſpute is about Words, when both Sides mean the ſame Thing. Now ſo far as I can gather, both from Diſcourſes and Writings on one Side, and the other, I ſhall here ſet down wherein both Sides agree, and wherein they differ; If they have declared their minds plainly and ſincerely, and will ſtand to their own Aſſertions, and not revoke what they have granted. Now the more ſober and judicious on both Sides agree in theſe things.</p>
+            <p n="1">1. Both Sides agree, That there is an Eternal Election of a determinate number of Perſons to Eternal Life.</p>
+            <p n="2">2. Both Sides agree, That all theſe ſhall be certainly Called, Juſtified and Saved.</p>
+            <p n="3">3. Both agree, That eventually none others ſhall be Saved; though they yield, That if any others ſhould Repent and truly Believe, they might be Saved, which is more than can be ſuppoſed of the Fallen Angels: And that no Adult Perſons do periſh merely and only becauſe they are not Elected.</p>
+            <p n="4">4. Both agree, That there is no Juſtification by the Law of Works, but by the Righteouſneſs of Chriſt alone; and that
+<pb n="4" facs="tcp:50154:3"/> not by the Effects of his Righteouſneſs, but the Righteouſ<g ref="char:EOLhyphen"/>neſs it ſelf.</p>
+            <p n="5">5. Both agree, That there was an Eternal Compact be<g ref="char:EOLhyphen"/>twixt the Father and the Son in the Covenant of Redempti<g ref="char:EOLhyphen"/>on about man's Salvation: A Council of Peace betwixt them both, and Antecedent to Chriſt's Sufferings.</p>
+            <p n="6">6. Both agree, That ſomething is required to be done by men in order to their Juſtification; and that they are not merely Paſſive in it; and none are Juſtified from Eternity, but only in the Decree of God; nor actually Juſtified, either by the Death or Reſurrection of Chriſt, till they actually Believe.</p>
+            <p n="7">7. Both agree, That what God requires of man to do, it is his Grace that enableth him to do it; and the improvement of Nature or common Grace, is not ſufficient of it ſelf, much leſs Meritorious of ſpecial Grace.</p>
+            <p n="8">8. Both agree, That whatever Qualifications God work<g ref="char:EOLhyphen"/>eth in man, as they do not Merit Juſtification, neither are they the Righteouſneſs wherein he is Juſtified before God.</p>
+            <p n="9">9. Both agree, That though Juſtifying Faith is always accompanied with other Graces, yet it is Faith alone that doth Juſtify a Sinner in the ſight of God; and that not as a moral qualification, as other Graces are, but as a recipient inſtru<g ref="char:EOLhyphen"/>ment, receiving Chriſt and his Righteouſneſs as a free gift tendred to Sinners in the Goſpel.</p>
+            <p n="10">10. Again, both agree, That it is Chriſt's Obedience, both Active and Paſſive, that is the meritorious and mate<g ref="char:EOLhyphen"/>rial cauſe of Juſtification, and not any Obedience perform<g ref="char:EOLhyphen"/>ed by our ſelves.</p>
+            <p n="11">11. Both agree, That the Covenant of Grace is abſolute to the Elect; tho conditionally adminiſtred in the Preaching of the Goſpel; as, <hi>He that believeth, ſhall be ſaved; and he that believeth not, ſhall be damned.</hi>
+            </p>
+            <p n="12">12. Both agree, That a man is Compleatly juſtified as to his State at his firſt Believing; and that there is not a ſecond
+<pb n="5" facs="tcp:50154:3"/> Juſtification to perfect the firſt, but only declarative at the Day of Judgment, and by good Works in this World.</p>
+            <p n="13">13. Both agree, That Juſtification conſiſteth not only in the Pardon, or not imputing of Sin, but in the imputing of Chriſt's Righteouſneſs, whereby a Sinner is reputed and ac<g ref="char:EOLhyphen"/>cepted as Righteous in the ſight of God, and ſo differs from Sanctification by infuſing Grace.</p>
+            <p n="14">14. Both Sides agree, That no Works men perform, are acceptable to God, but through Faith, and the Mediation of Jeſus Chriſt.</p>
+            <p n="15">15. Both agree, That Jeſus Chriſt is the only Mediator of the New Covenant, and the Surety of it both on God's Part and Man's; and therein doth diſcharge the Office of a Mediator.</p>
+            <p n="16">16. Both agree, That Jeſus Chriſt was without all Sin, Holy, Harmleſs, and Undefiled; and though he had the Sin of all his People imputed to him, yet God never looked upon him as formally a ſinner, as he looks upon wicked men.</p>
+            <p n="17">17. Further both agree, That more is required to our compleat Salvation, than to our firſt Juſtification; as in Marriage, mutual Conſent doth enter Perſons into the Married ſtate; but many more Duties are required, as con<g ref="char:EOLhyphen"/>ditions of the Marriage Covenant, to be performed after<g ref="char:EOLhyphen"/>wards.</p>
+            <p n="18">18. Both alſo agree, That the Moral Law is ſtill in force as a rule of life to Believers, though it is aboliſh'd as a Cove<g ref="char:EOLhyphen"/>nant of Works, ſo as to live by doing it, though done by the ſpecial help of God's Grace; and that every Tranſgreſſi<g ref="char:EOLhyphen"/>on doth in its own nature deſerve Death ſtill.</p>
+            <p n="19">19. Both agree, That ſome preparatory Work upon the Soul uſually goes before Juſtifying Faith; yet that it is not the like in all; nor any further neceſſary, than to make the Sinner willing to come to Chriſt, and to accept of him as offered in the Goſpel. And that a Legal Repentance, wrought by the Spirit of Bondage, may be before Juſtifying Faith.</p>
+            <p n="20">
+               <pb n="6" facs="tcp:50154:4"/>20. Both Sides agree, That tho no Act of Obedience con<g ref="char:EOLhyphen"/>curs with Faith in our Juſtification, yet all Juſtifying Faith contains in it a purpoſe of Future Obedience, and will cer<g ref="char:EOLhyphen"/>tainly bring it forth.</p>
+            <p>
+               <hi>And it's hoped that both Sides agree to exalt Chriſt, and the freeneſs of Grace in man's Salvation, and Holineſs and Righteouſneſs among men; and not to expoſe their preſent Liberty to Hazard, or Religion to Contempt, by any paſſio<g ref="char:EOLhyphen"/>nate heats; which are the fruits of the fleſh, and not that true Zeal which is the grace of the Spirit.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>The Differences, wherein they Diſagree.</hi> Which I ſhall ſtate impartially on both Sides.</head>
+               <p n="1">1. THAT the Goſpel is a Law of Grace, wherein God as a Soveraign Rector, doth diſpenſe Pardon, Adop<g ref="char:EOLhyphen"/>tion, and all ſaving Benefits to men, according to the Terms of the Moral Law, as it is mitigated in Chriſt, and ſome other Terms of Faith and Repentance required by the Goſpel: yet not without reſpect to the Merits of Chriſt herein, which they term a ſubordinate Righteouſneſs; wherein others differ from them, and ſay, that this is not a Covenant of Grace, but a milder Covenant of Works: wherein a man is juſti<g ref="char:EOLhyphen"/>fied before God by ſome Works done by himſelf, tho done by the help of Grace, and through the Merits of a Mediator are accepted with God. For the Apoſtle, ſpeaking of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s Juſtification, <hi>Rom.</hi> 4.3. mentions none of his Works, but ſaith, <hi>Abraham believed God, and it was accounted to him for righteouſneſs.</hi> And doth make our Juſtifying Righteouſneſs to conſiſt in a gracious Act of God upon the Sinner, in covering, and not imputing his ſin; And not in any Works of his own, either of Nature, or of Grace, <hi>Rom.</hi> 4.7, 8.</p>
+               <p n="2">2. That Chriſt made a Compact with the Father for us
+<pb n="7" facs="tcp:50154:4"/> in a diſtinct Covenant by himſelf; and was not ever himſelf a Party in the Covenant; and was not as a Surety bound in the ſame Bond with men; but as a Surety, giving a Bond of his own to obey the Law, and ſuffer death for us, and to pay our Debts owing to the Law, or Juſtice of God. Whereas o<g ref="char:EOLhyphen"/>thers ſay, this is a great miſtake; and ſay, That Chriſt came under the ſame Law that man was under, <hi>Gal.</hi> 4.4. and there<g ref="char:EOLhyphen"/>by became obliged to give obedience to the Law; and not on<g ref="char:EOLhyphen"/>ly ſo, but to ſuffer the penalty of the Law: For thoſe that had broken the Law, being in the ſame Bond with them, as the Apoſtle ſaith, <hi>Gal.</hi> 3.16. <hi>That the promiſes were made to Abra<g ref="char:EOLhyphen"/>ham, and his ſeed;</hi> which Seed, he ſaith, is Chriſt. And the Covenant God made with <hi>David,</hi> was made with him as a Type of Chriſt, and with his Seed, <hi>Pſal.</hi> 18.50. So that God ſaith of this ſeed, <hi>Pſal.</hi> 89.33. <hi>If his children break my law, I will viſit their iniquities with ſtripes, but my loving-kindneſs I will not take from him,</hi> that is, Chriſt; <hi>nor break my Covenant with him,</hi> as it follows in the new Verſe.</p>
+               <p>And in the Covenant of Redemption it ſelf, made before the foundation of the World, Chriſt ſtood not alone in that nei<g ref="char:EOLhyphen"/>ther. For then all the Elect were choſen in Chriſt, <hi>Eph.</hi> 1.3. And Grace was given them in Chriſt then, 2 <hi>Tim.</hi> 1.9. before the world began. So that they judge it a great miſtake to ſay, that the Covenant of Redemption is only pleadable by Chriſt himſelf: For tho part of that Covenant reſpect himſelf only, that he ſhould come into our Nature, and ſuffer, <hi>&amp;c.</hi> yet then he undertook for all that God gave him, to bring them to glory.</p>
+               <p n="3">3. Further, They ſay that God lookt upon Chriſt's Obe<g ref="char:EOLhyphen"/>dience as a valuable Conſideration only, why he ſhould make a Covenant of Grace with men; and that there was no ne<g ref="char:EOLhyphen"/>ceſſity that Chriſt ſhould come into the nature of man, and be made under the Law, and ſuffer death for our ſins, from the nature of the work of our Redemption, but only from the deſignation and appointment of his Father thereunto.
+<pb n="8" facs="tcp:50154:5"/> And if he had appointed him to perform ſome Heroick Acts of Obedience in any other nature, or of another kind, it might have been as available for our Redemption, and as meritorious for us, as what he did perform.</p>
+               <p>But others look upon this as a great Error, and ſay, That the nature of the work of our Redemption did neceſſarily re<g ref="char:EOLhyphen"/>quire, that Chriſt ſhould not only merit for us, but make ſa<g ref="char:EOLhyphen"/>tisfaction, which they don't conſider; and ſhould ſatisfy Ju<g ref="char:EOLhyphen"/>ſtice in the ſame Nature that ſinned, and perform obedience to that Law which man had broken, and bear the Curſe of that Law which man was under, to redeem him from it. For it ſeems neceſſary that God ſhould ſecure the Honour of his Law, and Juſtice of his Government.</p>
+               <p n="4">4. They will not allow Chriſt to do and ſuffer what he did, as a Publick Perſon, repreſenting all the Elect, compre<g ref="char:EOLhyphen"/>hending a Spiritual Seed in himſelf, as the firſt <hi>Adam</hi> did his Natural Seed, ſo that the Elect may be ſaid to obey, ſuffer, and ſatisfy Juſtice in him. Though they yield, that he did do all this for them. For then, they ſay, the Elect may be ſaid to merit in him, as Chriſt merited; and to be Re<g ref="char:EOLhyphen"/>deemers of the World, as Chriſt was; and to perform ſin<g ref="char:EOLhyphen"/>leſs Obedience, as Chriſt did.</p>
+               <p>But others judge this a great miſtake: For the Apoſtle in the fifth Chapter to the <hi>Romans,</hi> doth parallel the two <hi>A<g ref="char:EOLhyphen"/>dams,</hi> and ſaith the firſt was the <hi>Figure of him that was to come.</hi> And that all Mankind ſinned in him, and not only by him, through the Corruption of Nature derived from him; <hi>And as in Adam all died, ſo in Chriſt are all made alive,</hi> 1 Cor. 15. All died, not only by him, but in him. Even Infants that have committed no actual Sin; As an Inſolvent Debtor may be ſaid to pay the Debt in the Sureties paying it for him, or in his ſtead. Or if a Friend dies for a Malefactor, the Malefactor may be ſaid to ſatisfy the Law in him.</p>
+               <p>And the Objections againſt this, they anſwer them thus.</p>
+               <p>That though Chriſt merited, yet it doth not follow, that
+<pb n="9" facs="tcp:50154:5"/> thoſe that are juſtified in his Merits, did merit in him. For Chriſt and they are not the ſame perſon naturally, but only legally; as the Client and the Advocate, the Surety and the Debtor. And Chriſt's Merits did ariſe from the Dignity of his Perſon, and his voluntary Undertaking that for us, which he was not antecedently obliged unto; which is not the caſe of thoſe whom he undertook for.</p>
+               <p>A Surety that pays another's Debt, may merit from the Debtor; but the Debtor is not at all concern'd in that Merit, but only in the Diſcharge that he receives thereby. So, if a Believer is juſtified in the ſinleſs Obedience of Chriſt, doth it therefore follow, that he muſt be accounted no Sinner? Is it neceſſary that a Debtor who pays his Debt in a Surety, be Partaker of all the Endowments and Qualifications of his Surety? Or be judged ſo to do? It may be yielded that here<g ref="char:EOLhyphen"/>by a Believer is juſtified in a more excellent Righteouſneſs than his own, tho it ſhould be perfect, or than <hi>Adam</hi> had in innocency; but not that we ſhould be accounted in all re<g ref="char:EOLhyphen"/>ſpects as righteous as Chriſt himſelf was; tho it ſeems ne<g ref="char:EOLhyphen"/>ceſſary that we ſhould be juſtified in a Righteouſneſs which ſhould anſwer to the Infinite Juſtice of God offended by man's Sin. And if any object, Chriſt fulfill'd not the whole Moral Law, not performing many Duties required of us, as of an Husband, a Father, <hi>&amp;c. Anſwer.</hi> He that performs all that the Law requires of him, fulfils the Law. Thus Chriſt did; and ſo being under the Ceremonial Law, he performed all requir'd of him by that Law: And being alſo in the Goſpel-Covenant, he did all required of him there. He did not in<g ref="char:EOLhyphen"/>deed repent, becauſe not required of him, not being a Sinner. And if it be objected again, That if our debt be paid in Chriſt, and we juſtified thus in him, What need any thing more to be done by a ſinner for his diſcharge? They Anſwer to this, That though the Elect Believer is thus virtually and funda<g ref="char:EOLhyphen"/>mentally diſcharged and juſtified in Chriſt's Obedience; yet God hath appointed Faith to be the mean or way whereby
+<pb n="10" facs="tcp:50154:6"/> he ſhould be actually juſtified: God having ſo provided, that his Grace ſhould be diſpenſed in a way that might con<g ref="char:EOLhyphen"/>duce to his own Glory, as well as man's Salvation. May not a Surety who pays the Money to diſcharge the Debtor, re<g ref="char:EOLhyphen"/>quire ſomething from him to do, whereby he may be made ſenſible of the kindneſs he hath ſhewn him?</p>
+               <p n="5">5. Again, ſome ſay, There are no habits of Grace, but the influences of the Spirit are inſtead of them; which is a mi<g ref="char:EOLhyphen"/>ſtake, for this denies all Sanctifying of the faculties, growth in Grace, diſtinctions of Grace in Believers, <hi>&amp;c.</hi>
+               </p>
+               <p n="6">6. Again, ſome ſay, That the ſufferings Chriſt under<g ref="char:EOLhyphen"/>went, were not the very ſame that were threatned in the Law, and the damned ſuffer; but only equivalent to them. For they ſay, Chriſt ſuffered not the loſs of God's Image in his Soul, as man did as a Puniſhment for ſin. To this it's anſwer'd, This is to ſay, That Chriſt muſt become a Sinner that he may ſave Sinness; when, if ſo, he could not ſave them at all. Cannot a Surety pay a debt for the diſcharge of the Debtor, unleſs he become as wicked as, it may be; the Debtor is? Chriſt was never ſick, and yet ſickneſs came upon mens bodies as a fruit and puniſhment of Sin. Chriſt ſuffered the <hi>Idem</hi> of that Puniſhment that was due to man for Sin, ſo far as might conſiſt with the work he came upon, which was to Redeem and Reſtore man: And he redeemed man by his Blood, and reſtores him by his Spirit. Had he ſuffered the Loſs of God's Image, he could not have performed perfect Obedience to the Law; he could not have offered up him<g ref="char:EOLhyphen"/>ſelf a pure Sacrifice for Sin; he could not have been a pattern of perfect Holineſs to his People; <hi>But it behoved him in all things to be made like unto his brethren, ſin only excepted,</hi> Heb. 2.17. Was man under the Curſe of the Law? So was he. Was man by Sin deprived of the light of God's Countenance? So was he for a time. Was man to ſuffer the ſence of God's wrath? So did he. Was man to die, and to return to the Earth out of which he was taken? So did he. So that he ſuffered
+<pb n="11" facs="tcp:50154:6"/> the ſame kind of Puniſhment that was due to man. It's true his ſufferings were not Eternal, becauſe he paid the debt to the full, which the damned in Hell cannot do; and therefore alſo they deſpair, which Chriſt never did, becauſe he knew he ſhould and could deli<g ref="char:EOLhyphen"/>ver himſelf, which they know they cannot do, and therefore deſpair. So that in this there is a Difference.</p>
+               <p n="7">7. Another Difference is about the Moral Law, That it doth not remain as it did, requiring perfect Obedience, and threatning death to every Trangreſſion ſtill. Which is judged an error: For Chriſt tells us, <hi>Mat.</hi> 6.18. That <hi>heaven and earth ſhall paſs away, but not one tittle of the law.</hi> Luk. 16.17. <hi>And that he came not to deſtroy the law, but fulfil it.</hi> Only there is proviſion made in the Blood of Chriſt for the Pardon of ſins againſt the Law, to Penitent Believers. So that ſome lower degrees of Obedience are not come in the room of that per<g ref="char:EOLhyphen"/>fect Obedience which was at firſt required by the Law.</p>
+               <p n="8">8. That no Believer ought to have reſpect to any benefit to him<g ref="char:EOLhyphen"/>ſelf in any Duties he doth perform. Which is judged a great miſtake: For may we not ask that we may have, and ſeek that we may find, as our Saviour ſpeaks? And look to the recompence of reward, as <hi>Moſes</hi> did, for what we either do or ſuffer for God in this World? And by the ſame reaſon we ſhould not have reſpect to another's good neither.</p>
+               <p n="9">9. That not only the guilt, but the filth of Sin was laid upon Chriſt: That is, the obliquity of the very act; and the rebellion that is in it againſt God was charged upon Chriſt as guilty of it; which is judged a very falſe and blaſphemous Error. Whereupon they ſay, Chriſt became odious to his Father, and abhorred by him when he Offered up himſelf a Sacrifice, <hi>an offering to God of a ſweet ſmelling ſavor,</hi> Eph. 5.2. Chriſt indeed had our ſin imputed to him, and the ſence of God's wrath againſt ſin in his Soul; whereby God teſtified his indignation againſt ſin, but not againſt his Son: What was laid upon Chriſt, was done away; but the Act of ſin was not done away, though the guilt of it was.</p>
+               <p n="10">10. That Faith and Repentance are contained in the Moral Law, and were written in man's Nature: Which is judged a miſtake. For what was writ in man's heart, did reſpect only the Moral Law, or Covenant of Works; where there is no mention of the Righteouſneſs of Faith, or any admittance of Repentance for ſin.</p>
+               <p n="11">11. That the Goſpel doth not promiſe life to Penitent ſinners, but the Impenitent, becauſe the Penitent have life already. Which is judged an Opinion contrary to the whole Tenor of the Goſpel. It of<g ref="char:EOLhyphen"/>fers life to the Impenitent, but doth not promiſe it.</p>
+               <p n="12">
+                  <pb n="12" facs="tcp:50154:7"/>12. That the Goſpel is nothing elſe but a Promiſe. Which is judged a great miſtake, unleſs taken in a very ſtrict ſenſe. For we find many Precepts and Threatnings in it, according to which Chriſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in executing his Kingly Office in his Church. And there<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tainly a miſtake, that for ſins againſt the Goſpel men <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the Law for Puniſhment, and ſhall not be judged by the Goſpel at all.</p>
+               <p n="13">13. That a Chriſtian ought not to make <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> inward Grace or Qualifications to examine his State by: Which is judged a grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> miſtake. Doth not the Apoſtle <hi>Paul</hi> judge of the <hi>Theſſalonians</hi> Election by their Faith, <hi>receiving the word with much aſſurance,</hi> 1 <hi>Theſſ.</hi> 1.5. And the Apoſtle <hi>John,</hi> by love, <hi>by love to the brethren,</hi> 1 John 3.14. As a Man's bad ſtate may be judged of by evil habits and qualifications, ſo may not his good ſtate be judged of by good habits and qualifications? Eſpecially when made evident in an holy Converſation. Doth not our Saviour himſelf direct us to judge of the Tree by the Fruits? <hi>Mat.</hi> 7.20. And the Apoſtle, of the good ſtate of the <hi>Philippians</hi> by par<g ref="char:EOLhyphen"/>taking of his Grace? <hi>Phil.</hi> 1.7.</p>
+               <p n="14">14. That Juſtifying Faith is a full perſuaſion of heart that we are Juſtified: Which is another great miſtake. For the Scripture ſets it forth by a coming to Chriſt, receiving him, and truſting in him that we may be Juſtified, <hi>Gal.</hi> 2.16.3.24.</p>
+               <p n="15">15. To give Obedience on the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>count of any Law-Sanction, is legal Obedience, whether new or old Law: Which is a miſtake, and doth exclude all Obedience.</p>
+               <p n="16">16. That there is a work of Sanctification wrought in the Soul before Juſtification, in a ſinners firſt Calling; the Apoſtle ſaying, <hi>Rom.</hi> 8.30. <hi>Whom he called, them he juſtified;</hi> which is judged an error. For <hi>calling</hi> taken in a ſtrict ſence, is either the outward Call of the Goſpel, or the firſt anſwer of the Soul of a ſinner to this Call, in a willingneſs to leave his former <hi>ſin,</hi> and to come to Chriſt as King, Prieſt, and Prophet, that he may be Juſtified and Sanctified by union with him. Some other Differences I might mention, but theſe are the Principal.</p>
+               <p>Thus for the ſake of thoſe that have not time to read long Diſ<g ref="char:EOLhyphen"/>courſes, and cannot comprehend nice diſtinctions and controverſies in Religion, I have publiſh'd this plain Sheet: Which I wiſh may be a Winding-ſheet to our late Differences, and an Inſtrument of Truth and Peace; and of maintaining that Brotherly Union which hath been long deſired, and much endeavoured, and at laſt happily effected, and in the preſence of God and Angels Atteſted and Solemnized. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50154:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
